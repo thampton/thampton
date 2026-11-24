@@ -6,7 +6,7 @@ Engineering leader focused on cloud platforms, reliability and developer product
 - Lead platform, cloud and SRE organizations: 40+ engineers across 5 time zones
 - Cut deployment time in half for a Windows monolith
 - Started the migration of core workloads to Kubernetes
-- Moved databases to AWS Aurora, cutting cost in half and saving $200k annually
+- Moved databases to AWS Aurora, cutting cost in half and saving ~$193K/yr
 - Monitored and maintained 99.9% uptime SLAs
 
 ## What I'm looking for
